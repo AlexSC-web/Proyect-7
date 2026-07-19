@@ -1,3 +1,5 @@
+[Enlace a la aplicación en Render](https://proyect-7-ugra.onrender.com)
+
 # Analisis de venta de coches
 Este proyecto consistió en la realización de una aplicación web para observar de manera interactiva un caso real de anuncio de autos.
 
@@ -6,5 +8,5 @@ Este proyecto consistió en la realización de una aplicación web para observar
 * La relación entre el odometro  vs precio mediante un gráfico de dispersión
  
  ## Requisitos
- 1. Instalar las librerías mas recientes contenidas en el archivo requirementes.txt (Pandas, Plotly, Streamlit)
+ 1. Instalar las librerías mas recientes contenidas en el archivo requirements.txt (Pandas, Plotly, Streamlit)
  2. Ejectar el archivo app.py
